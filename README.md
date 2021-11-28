@@ -13,3 +13,6 @@ Impsove codebase for long-term sustainability.
 ## Contribution
 Made by Tsira Kvaratskhelia
 
+
+## use the link below to view the site
+https://kvtsira.github.io/urban-octo-telegram/
